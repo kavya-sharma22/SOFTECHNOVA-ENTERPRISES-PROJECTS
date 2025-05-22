@@ -1,7 +1,31 @@
 
-# 🧮 Advanced Java Calculator
+# 🧮 Java Calculator
+- ## Advanced
+  
+ A full-featured desktop calculator built with Java Swing. This calculator supports not just basic arithmetic but also advanced mathematical operations, memory functions, keyboard support, expression parsing with precedence, and a history log.
+ <br><br>
 
-A full-featured desktop calculator built with Java Swing. This calculator supports not just basic arithmetic but also advanced mathematical operations, memory functions, keyboard support, expression parsing with precedence, and a history log.
+<img src="./Screenshot/a1.png" alt="Screenshot of app" width="700"/>
+<br><br>
+
+<img src="./Screenshot/a2.png" alt="Screenshot of app" width="700"/>
+<br><br>
+
+<img src="./Screenshot/a3.png" alt="Screenshot of app" width="700"/>
+  
+- ## Basic
+ 
+Basic Calculator — perform addition, subtraction, multiplication, and division with ease.
+Features include decimal support, clear/reset function, and a simple, intuitive interface for smooth calculations.
+<br><br>
+
+<img src="./Screenshot/c1.png" alt="Screenshot of app" width="700"/>
+<br><br>
+
+
+<img src="./Screenshot/c2.png" alt="Screenshot of app" width="700"/>
+
+
 
 ## 🚀 Features
 
@@ -77,10 +101,6 @@ A full-featured desktop calculator built with Java Swing. This calculator suppor
 5 + 2 ^ 3 = 13
 sqrt(16) = 4
 ```
-
-## 📌 Screenshot
-
-> Add your GUI screenshot here (optional)
 
 ## 🧠 Notes
 
