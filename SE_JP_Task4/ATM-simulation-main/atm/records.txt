@@ -1,0 +1,193 @@
+Account Number: 6971353588732631
+Deposit Time: 2024-05-07T01:33:07.127448
+Deposit Amount: 50000.0 ₹
+
+Account Number: 6971353588732631
+Withdrawal Time: 2024-05-07T01:33:39.077113800
+Withdrawal Amount: 7500.0 ₹
+
+Account Number: 6971353588732631
+Fast Withdrawal Time: 2024-05-07T01:33:45.819445400
+Fast Withdrawal Amount: 2000.0 ₹
+
+Account Number: 6971353588732631
+Fast Withdrawal Time: 2024-05-07T01:33:48.395315100
+Fast Withdrawal Amount: 10000.0 ₹
+
+Account Number: 2193932583602358
+Withdrawal Time: 2024-05-07T22:23:19.825708700
+Withdrawal Amount: 7500.0 ₹
+
+Account Number: 2193932583602358
+Fast Withdrawal Time: 2024-05-07T22:23:39.232856200
+Fast Withdrawal Amount: 10000.0 ₹
+
+Account Number: 2193932583602358
+Fast Withdrawal Time: 2024-05-07T22:23:41.378849300
+Fast Withdrawal Amount: 1000.0 ₹
+
+Account Number: 2193932583602358
+Deposit Time: 2024-05-07T22:23:57.126269300
+Deposit Amount: 70000.0 ₹
+
+Account Number: 1082824322639836
+Withdrawal Time: 2024-05-08T13:02:00.876722700
+Withdrawal Amount: 500.0 ₹
+
+Account Number: 1082824322639836
+Deposit Time: 2024-05-08T13:02:15.922212500
+Deposit Amount: 100.0 ₹
+
+Account Number: 1082824322639836
+Fast Withdrawal Time: 2024-05-08T13:02:28.130255300
+Fast Withdrawal Amount: 1000.0 ₹
+
+Account Number: 5700357206016848
+Fast Withdrawal Time: 2024-05-09T16:32:08.393294
+Fast Withdrawal Amount: 100.0 ₹
+
+Account Number: 4287631263602193
+Deposit Time: 2024-05-10T14:08:47.873913300
+Deposit Amount: 500000.0 ₹
+
+Account Number: 4287631263602193
+Withdrawal Time: 2024-05-10T14:09:04.432490800
+Withdrawal Amount: 2000.0 ₹
+
+Account Number: 4287631263602193
+Fast Withdrawal Time: 2024-05-10T14:09:18.869651400
+Fast Withdrawal Amount: 2000.0 ₹
+
+Account Number: 6757146938943842
+Deposit Time: 2024-05-17T13:16:39.679288100
+Deposit Amount: 100.0 ₹
+
+Account Number: 6757146938943842
+Withdrawal Time: 2024-05-17T13:16:51.196805200
+Withdrawal Amount: 50.0 ₹
+
+Account Number: 6757146938943842
+Fast Withdrawal Time: 2024-05-17T13:17:11.680791900
+Fast Withdrawal Amount: 100.0 ₹
+
+Account Number: 4310106949284239
+Withdrawal Time: 2024-05-20T12:18:29.859611500
+Withdrawal Amount: 1000.0 ₹
+
+Account Number: 4310106949284239
+Deposit Time: 2024-05-20T12:19:53.765093200
+Deposit Amount: 0.0 ₹
+
+Account Number: 4310106949284239
+Fast Withdrawal Time: 2024-05-20T12:20:27.292268200
+Fast Withdrawal Amount: 2000.0 ₹
+
+Account Number: 4310106949284239
+Fast Withdrawal Time: 2024-05-20T12:20:30.300486500
+Fast Withdrawal Amount: 5000.0 ₹
+
+Account Number: 4310106949284239
+Fast Withdrawal Time: 2024-05-20T12:21:04.059847300
+Fast Withdrawal Amount: 1000.0 ₹
+
+Account Number: 3173355550798360
+Deposit Time: 2024-05-21T15:54:42.198712800
+Deposit Amount: 1.0E8 ₹
+
+Account Number: 3173355550798360
+Withdrawal Time: 2024-05-21T15:54:49.899749700
+Withdrawal Amount: 10000.0 ₹
+
+Account Number: 3173355550798360
+Fast Withdrawal Time: 2024-05-21T15:56:19.685662200
+Fast Withdrawal Amount: 2000.0 ₹
+
+
+Account Number: 4550808750738921  TO  6971353588732631
+Transfer Time: 2024-05-21T21:53:07.600897
+Transferred Amount: 12000.0 ₹
+
+Account Number: 6971353588732631  FROM  4550808750738921
+Received Time: 2024-05-21T21:53:07.600897
+Received Amount: 12000.0 ₹
+
+Account Number: 6971353588732631  TO  2193932583602358
+Transfer Time: 2024-05-21T21:59:27.349819400
+Transferred Amount: 10000.0 ₹
+
+Account Number: 2193932583602358  FROM  6971353588732631
+Received Time: 2024-05-21T21:59:27.349819400
+Received Amount: 10000.0 ₹
+
+Account Number: 6971353588732631
+Deposit Time: 2024-05-21T22:13:30.967114500
+Deposit Amount: 500.0 ₹
+
+Account Number: 6971353588732631
+Deposit Time: 2024-05-21T22:14:17.694975400
+Deposit Amount: 500.0 ₹
+
+Account Number: 6971353588732631  TO  2193932583602358
+Transfer Time: 2024-05-21T22:16:00.064015200
+Transferred Amount: 200.0 ₹
+
+Account Number: 2193932583602358  FROM  6971353588732631
+Received Time: 2024-05-21T22:16:00.079654600
+Received Amount: 200.0 ₹
+
+Account Number: 6971353588732631  TO  2193932583602358
+Transfer Time: 2024-05-21T22:16:03.897511900
+Transferred Amount: 200.0 ₹
+
+Account Number: 2193932583602358  FROM  6971353588732631
+Received Time: 2024-05-21T22:16:03.897511900
+Received Amount: 200.0 ₹
+
+Account Number: 6971353588732631  TO  2193932583602358
+Transfer Time: 2024-05-21T22:16:10.491934
+Transferred Amount: 99.0 ₹
+
+Account Number: 2193932583602358  FROM  6971353588732631
+Received Time: 2024-05-21T22:16:10.491934
+Received Amount: 99.0 ₹
+
+Account Number: 6971353588732631
+Deposit Time: 2024-05-22T00:49:56.913671700
+Deposit Amount: 99.0 ₹
+
+Account Number: 6971353588732631
+Deposit Time: 2024-05-22T00:50:05.064610900
+Deposit Amount: 900.0 ₹
+
+Account Number: 6971353588732631
+Deposit Time: 2024-05-22T00:50:12.121202800
+Deposit Amount: 10000.0 ₹
+
+Account Number: 6971353588732631
+Withdrawal Time: 2024-05-22T00:50:36.694567200
+Withdrawal Amount: 400.0 ₹
+
+Account Number: 6971353588732631
+Withdrawal Time: 2024-05-22T00:50:43.630108800
+Withdrawal Amount: 400.0 ₹
+
+Account Number: 6971353588732631
+Fast Withdrawal Time: 2024-05-22T00:50:56.732297900
+Fast Withdrawal Amount: 2000.0 ₹
+
+Account Number: 6971353588732631
+Fast Withdrawal Time: 2024-05-22T00:50:59.036739400
+Fast Withdrawal Amount: 500.0 ₹
+
+Account Number: 6971353588732631
+Fast Withdrawal Time: 2024-05-22T00:51:01.867149100
+Fast Withdrawal Amount: 200.0 ₹
+
+Account Number: 6971353588732631  TO  6971353588732631
+Transfer Time: 2024-05-22T00:51:35.414994800
+Transferred Amount: 500.0 ₹
+
+Account Number: 6971353588732631  FROM  6971353588732631
+Received Time: 2024-05-22T00:51:35.414994800
+Received Amount: 500.0 ₹
+

@@ -1,0 +1,160 @@
+Account Number: 6971353588732631
+Name: Yash
+Father's Name: Dipakkumar
+Date of Birth: 2005-10-09
+Email: yexiy27608@fincainc.com
+City: qq
+State: qq
+Pin Code: 123456
+Address: qq
+Gender: Male
+Marital Status: Single
+Card Number: 123456789012
+PIN: 222222
+Start Amount: 9000.0
+Email Service: No
+
+Account Number: 2193932583602358
+Name: Dimpalben
+Father's Name: Dharmendrabhai
+Date of Birth: 1981-12-11
+Email: kewid31629@fincainc.com
+City: Ah
+State: Gujarat
+Pin Code: 380001
+Address: ah
+Gender: Female
+Marital Status: Married
+Card Number: 123456789011
+PIN: 222222
+Start Amount: 131999.0
+Email Service: Yes
+
+Account Number: 4550808750738921
+Name: zzzz
+Father's Name: zz
+Date of Birth: 9999-10-12
+Email: vedace2439@goulink.com
+City: zz
+State: zz
+Pin Code: 123456
+Address: zz
+Gender: Male
+Marital Status: Married
+Card Number: 123456789015
+PIN: 123456
+Start Amount: 102000.0
+Email Service: No
+
+Account Number: 7591780048486581
+Name: qq
+Father's Name: qq
+Date of Birth: 2005-02-02
+Email: vedace2439@goulink.com
+City: zz
+State: qq
+Pin Code: 000000
+Address: qq
+Gender: Male
+Marital Status: Single
+Card Number: 123456789013
+PIN: 123456
+Start Amount: 50000
+Email Service: No
+
+Account Number: 1082824322639836
+Name: Gadani Darshan
+Father's Name: Dipakbhai
+Date of Birth: 2005-03-12
+Email: darshankumargadani@gmail.com
+City: Ahmedabad
+State: Gujarat
+Pin Code: 380061
+Address: Chandlodiya
+Gender: Male
+Marital Status: Single
+Card Number: 123123123123
+PIN: 120305
+Start Amount: 248600.0
+Email Service: No
+
+Account Number: 5700357206016848
+Name: krish chaudhari
+Father's Name: narayanbhai chaudhari
+Date of Birth: 2005-12-16
+Email: chaudhrikrish0@gmail.com
+City: ahmedabad
+State: gujarat
+Pin Code: 382345
+Address: shikhar resedency,sardar chowk,ahmedabad
+Gender: Male
+Marital Status: Single
+Card Number: 123409871234
+PIN: 754811
+Start Amount: 99900.0
+Email Service: Yes
+
+Account Number: 4287631263602193
+Name: NIKITA KAYASTH
+Father's Name: DIPAKKUMAR KAYASTH
+Date of Birth: 2000-06-16
+Email: nikitakayasth7@gmail.com
+City: AHMEDABAD
+State: GUJARAT
+Pin Code: 380001
+Address: DOLATKHANA SARANGPUR
+Gender: Female
+Marital Status: Single
+Card Number: 749093911874
+PIN: 749093
+Start Amount: 516000.0
+Email Service: Yes
+
+Account Number: 6757146938943842
+Name: nishant
+Father's Name: ab
+Date of Birth: 2006-09-29
+Email: ninim41706@bsomek.com
+City: ahmedabad
+State: gujarat
+Pin Code: 380015
+Address: ambawadi
+Gender: Male
+Marital Status: Single
+Card Number: 123456789123
+PIN: 654987
+Start Amount: 9950.0
+Email Service: Yes
+
+Account Number: 4310106949284239
+Name: ANAND NAIR
+Father's Name: NAIR
+Date of Birth: 2005-08-13
+Email: connect.with.anandnair@gmail.com
+City: AHD
+State: GUJARAT
+Pin Code: 380059
+Address: B-18 , THALTEJ
+Gender: Male
+Marital Status: Married
+Card Number: 890765432123
+PIN: 123450
+Start Amount: 1000.0
+Email Service: Yes
+
+Account Number: 3173355550798360
+Name: Ahk
+Father's Name: hking
+Date of Birth: 2007-01-26
+Email: ahkmail789@gmail.com
+City: Riyadh
+State: Ar Riyadh
+Pin Code: 380001
+Address: Hawtat sudair riyadh
+Gender: Male
+Marital Status: Single
+Card Number: 123456789001
+PIN: 654321
+Start Amount: 1.00988E8
+Email Service: Yes
+
