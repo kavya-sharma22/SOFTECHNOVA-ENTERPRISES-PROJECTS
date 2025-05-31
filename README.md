@@ -1,6 +1,6 @@
 # SOFTECHNOVA ENTERPRISES PROJECTS
 
-Welcome to the **SOFTECHNOVA ENTERPRISES PROJECTS** repository!
+Welcome to the **SOFTECHNOVA ENTERPRISES PROJECTS** repository! 
 
 This repository contains all the Java development tasks and projects completed during my internship at Softechnova Enterprises. Each task is organized in separate folders with the relevant Java source code, documentation, and resources.
 
